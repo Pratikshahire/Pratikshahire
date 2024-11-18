@@ -1,4 +1,4 @@
-# 👋 Hey there!
+# 👋 Hey, I am Pratiksha!
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: middle; width: 70%;">
